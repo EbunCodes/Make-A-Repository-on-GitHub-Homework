@@ -1,0 +1,11 @@
+# Example Markdown
+This is an example of a markdown file.
+
+## Headings.
+- Item 1
+- Item 2
+
+git add .
+git commit -m "Updated the README and added a new file"
+git push origin main
+
